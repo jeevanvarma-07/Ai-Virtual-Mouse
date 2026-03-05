@@ -203,7 +203,7 @@ HD webcam
 Follow the steps below to run the project.
 
 1 Clone the Repository
-git clone https://github.com/yourusername/AI-Virtual-Mouse.git
+git clone https://github.com/jeevanvarma-07/Ai-Virtual-Mouse.git
 2 Go to the Project Folder
 cd AI-Virtual-Mouse
 3 Install Required Libraries
